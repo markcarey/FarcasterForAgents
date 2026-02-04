@@ -112,15 +112,15 @@
     },
     {
       "name": "Direct Casts API",
-      "url": "https://docs.farcaster.xyz/reference/warpcast/direct-casts",
+      "url": "https://docs.farcaster.xyz/reference/farcaster/direct-casts",
       "type": "documentation",
-      "description": "Warpcast API for sending private direct messages."
+      "description": "Farcaster API for sending private direct messages."
     },
     {
-      "name": "Warpcast API Reference",
-      "url": "https://docs.farcaster.xyz/reference/warpcast/api",
+      "name": "Farcaster API Reference",
+      "url": "https://docs.farcaster.xyz/reference/farcaster/api",
       "type": "documentation",
-      "description": "Warpcast-specific API endpoints and features."
+      "description": "Farcaster API endpoints and features."
     },
     {
       "name": "OnchainKit Docs",

@@ -16,7 +16,7 @@ This hub is your guide to building on Farcaster. It catalogues skills, patterns,
 ## Key Concepts
 
 ### Farcaster
-Decentralized social protocol. Users own their identity and social graph. Main client is Warpcast.
+Decentralized social protocol. Users own their identity and social graph. Main client is farcaster.xyz.
 
 ### FID (Farcaster ID)
 Unique numeric identifier for each account. Required for all operations. Registered on Optimism.
@@ -34,7 +34,7 @@ Topic-based feed (like subreddits). Examples: /dev, /base, /ai, /frames.
 Interactive application embedded in Farcaster clients. Can handle buttons, forms, transactions.
 
 ### Direct Cast
-Private message on Farcaster. Uses Warpcast API, not Neynar.
+Private message on Farcaster. Uses Farcaster API, not Neynar.
 
 ## Available Skills
 
@@ -258,18 +258,18 @@ For full Frame/Mini App development, fetch the Mini Apps docs (see Resources bel
 
 ### Send Direct Cast
 
-Uses Warpcast API, not Neynar:
+Uses Farcaster API, not Neynar:
 
 ```
-PUT https://api.warpcast.com/v2/direct-cast-send
-Headers: Authorization: Bearer YOUR_WARPCAST_TOKEN
+PUT https://api.farcaster.xyz/v2/direct-cast-send
+Headers: Authorization: Bearer YOUR_FARCASTER_TOKEN
 Body: {
   "recipientFid": 3,
   "message": "Hello!"
 }
 ```
 
-Requires Warpcast authentication.
+Requires Farcaster authentication.
 
 ## Skill Chaining
 
@@ -305,8 +305,8 @@ To query Warpee:
 |----------|-----|
 | Neynar API Docs | https://docs.neynar.com |
 | Farcaster Docs | https://docs.farcaster.xyz |
-| Warpcast API | https://docs.farcaster.xyz/reference/warpcast/api |
-| Direct Casts API | https://docs.farcaster.xyz/reference/warpcast/direct-casts |
+| Farcaster API | https://docs.farcaster.xyz/reference/farcaster/api |
+| Direct Casts API | https://docs.farcaster.xyz/reference/farcaster/direct-casts |
 | OnchainKit | https://onchainkit.xyz |
 | Farcaster Protocol | https://github.com/farcasterxyz/protocol |
 
