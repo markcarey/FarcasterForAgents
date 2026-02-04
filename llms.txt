@@ -58,11 +58,11 @@ Private message on Farcaster. Uses Warpcast API, not Neynar.
 **Repo:** https://github.com/rishavmukherji/farcaster-agent
 
 ### clanker
-**Purpose:** Deploy ERC20 tokens with Uniswap V4 liquidity in one transaction
-**When to use:** Token launches (popular in Farcaster community, not Farcaster-specific)
-**Requires:** Bankr for transaction signing
+**Purpose:** Launch tokens with instant Uniswap V4 liquidity via @clanker on Farcaster
+**When to use:** Deploy ERC20 tokens with built-in liquidity pools in one transaction
+**Requires:** Farcaster account to tag @clanker, Bankr for transaction signing
 **Fetch:** https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/clanker/SKILL.md
-**Note:** General EVM token deployment tool, but widely used for Farcaster token launches
+**Note:** The dominant token launcher in the Farcaster ecosystem, acquired by Farcaster
 
 ### onchainkit
 **Purpose:** Coinbase's React components for onchain apps, includes MiniKit for Farcaster Frames

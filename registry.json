@@ -15,7 +15,7 @@
     },
     {
       "name": "clanker",
-      "description": "Deploy ERC20 tokens with Uniswap V4 liquidity. Popular in Farcaster community but not Farcaster-specific.",
+      "description": "Launch tokens with instant Uniswap V4 liquidity via @clanker on Farcaster. The dominant token launcher in the FC ecosystem.",
       "source": "external",
       "repo": "BankrBot/openclaw-skills",
       "path": "clanker",

@@ -31,7 +31,7 @@ FarcasterForAgents/
 | [neynar](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/neynar/SKILL.md) | external | Core Farcaster API |
 | [clawcaster](https://clawcaster.com/skill.md) | external | Account creation for agents |
 | [farcaster-agent](https://github.com/rishavmukherji/farcaster-agent) | external | Full autonomous toolkit |
-| [clanker](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/clanker/SKILL.md) | external | Token deployment (popular in FC community) |
+| [clanker](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/clanker/SKILL.md) | external | Token launcher with Uniswap liquidity via @clanker |
 | [onchainkit](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/onchainkit/SKILL.md) | external | Frames/Mini Apps via MiniKit |
 | [qrcoin](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/qrcoin/SKILL.md) | external | QR code auctions on Base |
 | [streme](https://www.clawhub.com/clawrencestreme/streme-launcher) | external | Streaming token launcher via @streme |
