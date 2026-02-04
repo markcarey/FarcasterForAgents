@@ -34,6 +34,7 @@ FarcasterForAgents/
 | [clanker](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/clanker/SKILL.md) | external | Token deployment (popular in FC community) |
 | [onchainkit](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/onchainkit/SKILL.md) | external | Frames/Mini Apps via MiniKit |
 | [qrcoin](https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/qrcoin/SKILL.md) | external | QR code auctions on Base |
+| [streme](https://www.clawhub.com/clawrencestreme/streme-launcher) | external | Streaming token launcher via @streme |
 
 ### External vs Local
 

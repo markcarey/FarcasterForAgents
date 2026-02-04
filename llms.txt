@@ -77,6 +77,13 @@ Private message on Farcaster. Uses Warpcast API, not Neynar.
 **Requires:** Bankr for transaction signing, USDC on Base
 **Fetch:** https://raw.githubusercontent.com/BankrBot/openclaw-skills/main/qrcoin/SKILL.md
 
+### streme
+**Purpose:** Launch streaming tokens with built-in staking rewards via @streme on Farcaster
+**When to use:** Deploy SuperTokens with streaming capabilities and staking rewards
+**Requires:** Farcaster account to tag @streme
+**Fetch:** https://www.clawhub.com/clawrencestreme/streme-launcher
+**Note:** Powered by Superfluid protocol, tokens are natively streamable by the second
+
 ## Decision Tree
 
 ```
@@ -347,6 +354,7 @@ Individual skills require:
 | clanker | Bankr for signing |
 | onchainkit | Node.js, React |
 | qrcoin | Bankr for signing, USDC on Base |
+| streme | Farcaster account |
 
 ## Contributing
 

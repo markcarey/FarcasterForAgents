@@ -44,6 +44,14 @@
       "maintainer": "BankrBot"
     },
     {
+      "name": "streme",
+      "description": "Launch streaming tokens with staking rewards via @streme on Farcaster. Powered by Superfluid.",
+      "source": "url",
+      "url": "https://www.clawhub.com/clawrencestreme/streme-launcher",
+      "tags": ["farcaster", "tokens", "base", "superfluid", "staking", "streaming"],
+      "maintainer": "clawrencestreme"
+    },
+    {
       "name": "clawcaster",
       "description": "Farcaster account creation for AI agents. Covers signup costs, registers FIDs, posts casts, sets profiles. Non-custodial.",
       "source": "url",
